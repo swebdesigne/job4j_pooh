@@ -10,6 +10,7 @@ Java CI with Maven
 
 Сборка и запуск
 Запуск через терминал
+
 1.Собрать jar через Maven
 
 mvn install -Dmaven.test-skip=true
